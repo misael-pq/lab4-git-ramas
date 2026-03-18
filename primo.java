@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.Scanner;
 
 public class primo {
@@ -8,7 +7,6 @@ public class primo {
         int n = entrada.nextInt();
 
         boolean esPrimo = esPrimoPorRaiz(n);
-=======
 public class Primo {
     public static boolean esPrimo(int n) {
         if (n <= 1) return false;
@@ -17,7 +15,7 @@ public class Primo {
         }
         return true;
     }
->>>>>>> c493798f97e2d277abf809bf8b1be36138c9698c
+
 
     public static void main(String[] args) {
         int num = 17;

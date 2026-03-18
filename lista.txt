@@ -1,6 +1,8 @@
 Misael Portillo :)
-<<<<<<< HEAD
+
 Victor Joel Villalobos Cuba
-=======
+
 Maria José Callizaya Pérez :)
->>>>>>> c493798f97e2d277abf809bf8b1be36138c9698c
+
+Boris Chapi Quispe
+
